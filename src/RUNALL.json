@@ -1,0 +1,20 @@
+{
+  "name": "RUNALL",
+  "version": "1.0.1",
+  "author": "super1207",
+  "description": "在线运行各种编程语言",
+  "event": [
+    {
+      "type": 1003,
+      "function": "event_enable"
+    },
+    {
+      "type": 21,
+      "function": "event_private_message"
+    },
+     {
+      "type": 2,
+      "function": "event_group_message"
+    }
+  ]
+}
