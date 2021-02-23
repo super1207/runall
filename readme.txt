@@ -1,25 +1,26 @@
-QQ»úÆ÷ÈË²å¼þ:RUNALL
-ÔÚÏßÔËÐÐ¸÷ÖÖ±à³ÌÓïÑÔ,Ö§³ÖÈºÁÄºÍË½ÁÄ,¶Ô½ÓOneBot¿ò¼Ü(wsÕýÏò´úÀí)
+QQæœºå™¨äººæ’ä»¶:RUNALL
+åœ¨çº¿è¿è¡Œå„ç§ç¼–ç¨‹è¯­è¨€,æ”¯æŒç¾¤èŠå’Œç§èŠ,å¯¹æŽ¥OneBotæ¡†æž¶(wsæ­£å‘ä»£ç†)
 
-Ê¾Àý·¢ËÍ:
+ç¤ºä¾‹å‘é€:
 super py
 print('hello1')
 print('hello2')
 
-Ê¾Àý»Ø¸´:
+ç¤ºä¾‹å›žå¤:
 hello1
 hello2
 
-ÆäËüËµÃ÷£º
-<1> ½Ó¿ÚÀ´×Ô£ºhttps://glot.io/
-<2> "py"Îª±à³ÌÓïÑÔµÄÔ´ÂëÎÄ¼þºó×º,Í¬Ñù£¬Ò²¿ÉÒÔÊÇ
+å…¶å®ƒè¯´æ˜Žï¼š
+<1> æŽ¥å£æ¥è‡ªï¼šhttps://glot.io/
+<2> "py"ä¸ºç¼–ç¨‹è¯­è¨€çš„æºç æ–‡ä»¶åŽç¼€,åŒæ ·ï¼Œä¹Ÿå¯ä»¥æ˜¯
 super cpp
 super c
 super java
 ......
-<3> Èç¹ûglotÄÑÒÔ·ÃÎÊ£¬¿ÉÒÔÔÚconfig.iniÎÄ¼þÖÐÉèÖÃÍøÂç´úÀí£¬Ä¬ÈÏÎÞ´úÀí
+<3> å¦‚æžœglotéš¾ä»¥è®¿é—®ï¼Œå¯ä»¥åœ¨config.iniæ–‡ä»¶ä¸­è®¾ç½®ç½‘ç»œä»£ç†ï¼Œé»˜è®¤æ— ä»£ç†
+<4> vs2008 x86
 
-Ïà¹ØÏîÄ¿:
+ç›¸å…³é¡¹ç›®:
 https://github.com/howmanybots/onebot
 https://github.com/super1207/MiraiCQ
 https://github.com/open-source-parsers/jsoncpp
